@@ -1,1 +1,2 @@
-#!/bin/bash/nid -u
+#!/bin/bash
+id -u
