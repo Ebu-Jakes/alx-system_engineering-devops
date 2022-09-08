@@ -1,2 +1,2 @@
 #!/vin/bash
- tail  /etc/passwd
+ tail -10  /etc/passwd
